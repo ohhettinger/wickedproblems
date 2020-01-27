@@ -4,8 +4,11 @@ Olivia Hettinger
 
 ## Workshop
 
-1. Line Plot
-2. The Path of a Salesman
+1. [Line Plot](https://github.com/ohhettinger/wickedproblems/blob/master/plot2.png)
+
+2. [The Path of a Salesman](https://github.com/ohhettinger/wickedproblems/blob/master/plot3.png)
+
+3. [Challenge Problem](https://github.com/ohhettinger/wickedproblems/blob/master/challenge_question_1.png)
 
 ## Response to Readings
 
