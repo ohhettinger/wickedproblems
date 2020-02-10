@@ -10,8 +10,6 @@ Olivia Hettinger
 
 3. [Challenge Problem](https://github.com/ohhettinger/wickedproblems/blob/master/challenge_question_1.png)
 
-4. [Project One: CAR Map](https://github.com/ohhettinger/wickedproblems/blob/master/Adjusted_Central_African_Republic_2.png)
-
 ## Response to Readings
 
 [Blumenstock Response](https://github.com/ohhettinger/wickedproblems/blob/master/blumenstock.md) (Jan. 27)
@@ -20,4 +18,4 @@ Olivia Hettinger
 
 ## Project 1
 
-1. ...
+1. [First CAR Map](https://github.com/ohhettinger/wickedproblems/blob/master/Adjusted_Central_African_Republic_2.png)
