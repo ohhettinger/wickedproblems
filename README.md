@@ -16,6 +16,8 @@ Olivia Hettinger
 
 [Perkel Response](https://github.com/ohhettinger/wickedproblems/blob/master/perkel.md) (Jan. 27)
 
+[Lloyd Response](https://github.com/ohhettinger/wickedproblems/blob/master/Lloyd.md) (Feb. 10)
+
 ## Project 1
 
 1. ...
