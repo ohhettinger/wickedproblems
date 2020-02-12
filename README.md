@@ -18,4 +18,4 @@ Olivia Hettinger
 
 ## Project 1
 
-1. [First CAR Map](https://github.com/ohhettinger/wickedproblems/blob/master/Adjusted_Central_African_Republic_2.png)
+1. [Central African Republic](https://github.com/ohhettinger/wickedproblems/blob/master/project1.md)
