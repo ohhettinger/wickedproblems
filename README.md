@@ -21,3 +21,7 @@ Olivia Hettinger
 ## Project 1
 
 1. [Central African Republic](https://github.com/ohhettinger/wickedproblems/blob/master/project1.md)
+
+2. [Bangui Population Raster](https://github.com/ohhettinger/wickedproblems/blob/master/Bangui_adm3_population_again.png)
+
+3. [Bangui Population Density](https://github.com/ohhettinger/wickedproblems/blob/master/Bangui.png)
