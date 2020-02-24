@@ -6,7 +6,7 @@ This part was relatively easy and straightforward. The one challenge I ran into 
 
 ## Part Two
 
-This was somehwat frustrating in the beginning because the boundary data I was using was bad. I was able to switch to more specific data, which put me i the right direction. After that, I ran into a road bump where I didn't understand that I was supposed to subset my subset, but once I got that, it was smooth sailing. 
+This was somewhat frustrating in the beginning because the boundary data I was using was bad. I was able to switch to more specific data, which put me i the right direction. After that, I ran into a road bump where I didn't understand that I was supposed to subset my subset, but once I got that, it was smooth sailing. 
 
 ## Part Three
 
