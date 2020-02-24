@@ -27,3 +27,6 @@ Olivia Hettinger
 3. [Bangui Population Density](https://github.com/ohhettinger/wickedproblems/blob/master/Bangui.png)
 
 4. [Descriptions](https://github.com/ohhettinger/wickedproblems/blob/master/Project_1_Descriptions.md)
+
+![pic](Bangui.png)
+
