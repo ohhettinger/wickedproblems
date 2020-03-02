@@ -18,6 +18,8 @@ Olivia Hettinger
 
 [Wardrop Response](https://github.com/ohhettinger/wickedproblems/blob/master/Wardop.md) (Feb. 17)
 
+[Stevens Response](https://github.com/ohhettinger/wickedproblems/blob/master/stevens.md) (Mar. 2)
+
 ## Project 1
 
 ### Part One
