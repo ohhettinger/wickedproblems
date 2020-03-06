@@ -43,7 +43,9 @@ I'm familiar with the demographics of the city, and this data works well with th
 
 ## Project 2
 
+
 ![pic](Screen Shot 2020-03-06 at 10.34.12 AM.png)
+
 
 This is the histogram for the population distribution of the eight different ADM3s in Bangui. Because there are only eight observations, the histogram is not very informative at first glance. However, I went and looked at the population values for each ADM3, and noticed that several of them were really close together (within about 10,000 of one another). So, I decided to change the number of the bins so the close data points would be grouped together. The following is the manipulated graph:
 
