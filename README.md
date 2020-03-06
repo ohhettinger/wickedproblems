@@ -53,4 +53,5 @@ Lies, damn lies, and statistics.
 
 ![pic](Density_Histogram.png)
 
-This is the histogram with the probability function. This graph tells you that you have a higher probability of selecting an ADM3 with higher levels of population. 
+This is the histogram with the probability function. This graph tells you that you have a higher probability of selected an 
+ADM3 with relatively higher population. 
