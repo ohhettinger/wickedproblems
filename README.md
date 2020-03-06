@@ -53,5 +53,8 @@ Lies, damn lies, and statistics.
 
 ![pic](Density_Histogram.png)
 
-This is the histogram with the probability function. This graph tells you that you have a higher probability of selected an 
-ADM3 with relatively higher population. 
+This is the histogram with the probability funcuction of the pop19 variable. This graph tells you that you have a higher probability of selected an ADM3 with relatively higher population. 
+
+![pic](PDF_ntl_bangui.png)
+
+This is the probability density function against the nighttime lights variable. You are more likely to have an area with fewer nighttime lights, which is expected in such an under developed area.
