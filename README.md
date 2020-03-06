@@ -40,3 +40,17 @@ This was somewhat frustrating in the beginning because the boundary data I was u
 This is a plot of the population density in each administrative district in the capital city Bangui. Next to it is bar graph data showing the percent of population as a whole in each district. I made the plot by subsetting Central African Republic ADM1 data to just focus on Bangui. My biggest problem with this was typos. I had several typos in my code so it wasn't running and was frustrating me. But, once Professor Fraizer found the fact that I was spelling percent like "percente," then we were all good. 
 
 I'm familiar with the demographics of the city, and this data works well with that knowledge. District five is the most populated, but that area contains a many of the schools that I was researching last semester. It surprised my that district two wasn't more populated, but I'm assuming that because it is the main commercial district of the city, there are fewer residential installations. Finally, it was no shock that district one had the smallest population because that is a mountain range. 
+
+## Project 2
+
+![pic](Screen Shot 2020-03-06 at 10.34.12 AM.png)
+
+This is the histogram for the population distribution of the eight different ADM3s in Bangui. Because there are only eight observations, the histogram is not very informative at first glance. However, I went and looked at the population values for each ADM3, and noticed that several of them were really close together (within about 10,000 of one another). So, I decided to change the number of the bins so the close data points would be grouped together. The following is the manipulated graph:
+
+![pic](Better_Histogram_Project_Two.png)
+
+Lies, damn lies, and statistics. 
+
+![pic](Density_Histogram.png)
+
+This is the histogram with the probability function. This graph tells you that you have a higher probability of selecting an ADM3 with higher levels of population. 
