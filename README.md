@@ -57,4 +57,21 @@ This is the histogram with the probability funcuction of the pop19 variable. Thi
 
 ![pic](PDF_ntl_bangui.png)
 
-This is the probability density function against the nighttime lights variable. You are more likely to have an area with fewer nighttime lights, which is expected in such an under developed area.
+This is the probability density function against the nighttime lights variable. You are more likely to have an area with fewer nighttime lights, which is expected in such an underdeveloped country. The one ADM3 with higher nighttime lights values is likely the commercial area of the city, and the ADM3s with lower ntl values are the more residential areas. This makes sense considering the living conditions are very poor. 
+
+![pic](ntl_bangui.png)
+
+Just NTL
+
+![pic](ntl_residuals.png)
+
+Residuals from NTL plot
+
+![pic](some_variables_bangui.png)
+
+![pic](Several_variables_resid.png)
+
+![pic](all_variables_bangui.png)
+
+![pic](all_variables_resid.png)
+
