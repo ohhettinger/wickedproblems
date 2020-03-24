@@ -65,6 +65,25 @@ This is the regression showing the relationship between population and nighttime
 
 These are the parameters of the nighttime lights and population regression. The R sqaured is rather low at .4 and the residuals show a massive range, indicating lose correlation. 
 
+![pic](caf_regression_4_variables.png)
+
+This is the regression showing the relationship between population, nighttime lights, urban areas, and bare areas. Most of the points are clustered, but there is again a strange outlier.
+
+![pic](Six_variables_residual.png)
+
+These are the parameters from the above regression. Evidently, the range is very large and the R squared is quite small, showing a week correlation. Also, the significant codes inidcate that bare areas are the only data points that are remotely influencing this.
+
+![pic](caf_all_variables_regression.png)
+
+This is the regression with all 13 variables. Again, there is a massive outlier.
+
+![pic](all_variables_residual.png)
+
+These are the parameters for the above regression. Again, the range is massive, the R sqaured is low, and the significant codes are dictating that only Lichens and Mosses are really affecting the regression. 
+
+Of all the impactful shurbbery, I must say I never thought it'd be moss. 
+
+
 
 
 
