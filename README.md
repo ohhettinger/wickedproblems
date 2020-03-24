@@ -45,7 +45,25 @@ I'm familiar with the demographics of the city, and this data works well with th
 
 ### Part 1
 
+![pic](caf_adm3_histogram.png)
 
+This is the histogram describing population in CAR's adm3s in and around Bangui. It shows you that more adm3s have lower populations, and there is one rather striking outlier. 
+
+![pic](caf_adm3_density.png)
+
+This is the graph describing population density in adm3s in and around Bangui. It shows you that the majority of adm3s have realtively low population density. This aligns with my previous knowledge of CAR's demographics—most of the country lives in small, rural villages. 
+
+![pic](caf_density_histogram.png)
+
+This histogram describing the spread of population density across adm3s shows the expected results considering CAR's rural nature. 
+
+![pic](caf_pop19_ntl_regression.png)
+
+This is the regression showing the relationship between population and nighttime lights values. It seems to show that the two variables are very losely correlated—areas with similar population values have drastically different nighttime lights values. Also, once population values start to climb (likely the eight adm3s within Bangui), nighttime lights values start to converge, further complicating any correlation. Finally, there is one rogue outlier with a high ntl and population value. 
+
+![pic](NTL_Residuals.png)
+
+These are the parameters of the nighttime lights and population regression. The R sqaured is rather low at .4 and the residuals show a massive range, indicating lose correlation. 
 
 
 
