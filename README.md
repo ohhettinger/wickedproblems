@@ -45,35 +45,9 @@ I'm familiar with the demographics of the city, and this data works well with th
 
 ### Part 1
 
-![pic](First_Histogram_Ugly.png)
 
-This is the histogram for the population distribution of the eight different ADM3s in Bangui. Because there are only eight observations, the histogram is not very informative at first glance. However, I went and looked at the population values for each ADM3, and noticed that several of them were really close together (within about 10,000 of one another). So, I decided to change the number of the bins so the close data points would be grouped together. The following is the manipulated graph:
 
-![pic](Better_Histogram_Project_Two.png)
 
-Lies, damn lies, and statistics. 
 
-![pic](Density_Histogram.png)
 
-This is the histogram with the probability funcuction of the pop19 variable. This graph tells you that you have a higher probability of selected an ADM3 with relatively higher population. 
-
-![pic](PDF_ntl_bangui.png)
-
-This is the probability density function against the nighttime lights variable. You are more likely to have an area with fewer nighttime lights, which is expected in such an underdeveloped country. The one ADM3 with higher nighttime lights values is likely the commercial area of the city, and the ADM3s with lower ntl values are the more residential areas. This makes sense considering the living conditions are very poor. 
-
-![pic](ntl_bangui.png)
-
-Just NTL
-
-![pic](ntl_residuals.png)
-
-Residuals from NTL plot
-
-![pic](some_variables_bangui.png)
-
-![pic](Several_variables_resid.png)
-
-![pic](all_variables_bangui.png)
-
-![pic](all_variables_resid.png)
 
