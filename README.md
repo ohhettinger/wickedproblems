@@ -20,6 +20,8 @@ Olivia Hettinger
 
 [Stevens Response](https://github.com/ohhettinger/wickedproblems/blob/master/stevens.md) (Mar. 2)
 
+[Nieves Response](Nieves.md) (Mar. 25)
+
 ## Project 1
 
 ### Part One
