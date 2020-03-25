@@ -12,13 +12,13 @@ Olivia Hettinger
 
 ## Response to Readings
 
-[Blumenstock Response](https://github.com/ohhettinger/wickedproblems/blob/master/blumenstock.md) (Jan. 27)
+[Blumenstock Response](blumenstock.md) (Jan. 27)
 
-[Lloyd Response](https://github.com/ohhettinger/wickedproblems/blob/master/Lloyd.md) (Feb. 10)
+[Lloyd Response](Lloyd.md) (Feb. 10)
 
-[Wardrop Response](https://github.com/ohhettinger/wickedproblems/blob/master/Wardop.md) (Feb. 17)
+[Wardrop Response](Wardop.md) (Feb. 17)
 
-[Stevens Response](https://github.com/ohhettinger/wickedproblems/blob/master/stevens.md) (Mar. 2)
+[Stevens Response](stevens.md) (Mar. 2)
 
 [Nieves Response](Nieves.md) (Mar. 25)
 
