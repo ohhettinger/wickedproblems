@@ -87,11 +87,11 @@ Of all the impactful shurbbery, I must say I never thought it'd be moss.
 
 ### Part 2
 
-![pic](bangui_diff.png)
+![pic](Bangui_diff.png)
 
-![pic](bangui_pop.png)
+![pic](Bangui_pop.png)
 
-![pic](bangui_mapview.png)
+![pic](Bangui_mapview.png)
 
 
 
