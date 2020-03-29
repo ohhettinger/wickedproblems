@@ -96,6 +96,8 @@ According to the legend, every gridcell is highly overestimated, but that is exp
 
 This is a map of the actual population of bangui. This map very closely mirrors error conclusions from the prior. Clearly Arrondisement 1 is sparsely populated while Arrondisements 5 and 6 are more densely populated. 
 
+I don't have the 3D graph because the script isn't generating anything. 
+
 ![pic](Bangui_mapview.png)
 
 This is the mapview of the error from the predictive model. 
