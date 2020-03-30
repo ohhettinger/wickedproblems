@@ -89,16 +89,15 @@ Of all the impactful shurbbery, I must say I never thought it'd be moss.
 
 ![pic](3_district_difference.png)
 
-This is the difference between the statistical model's predicted values and the actual population in each gridcell. Evidently, most gridcells are wildley overestimated, especially the rural areas. 
+This is the difference between the statistical model's predicted values and the actual population in each gridcell for three ADM1s. Evidently, most gridcells are wildley overestimated, especially the rural areas. 
 
 ![pic](Bangui_diff.png)
 
-This is the map of the difference between the predicted values of the population in each gridcell and the actual value. 
-According to the legend, every gridcell is highly overestimated, but that is expected. The map seems to indicate that the areas with the highest overestimation (the brighest green) fall mainly around the edge of the city and in the mountain range to the left of the city (it's Arrondisement 1 if you want to reference earlier images). The areas with lower overestimation are the most populated districts in the city — Arrondisements 5 and 6. It is important to note that the actual differences between the error of each gridcell is rather low — the total scale spans 400 people. 
+This is the map of the difference between the predicted values of the population in each gridcell and the actual value for just Bangui. According to the legend, every gridcell is highly overestimated, but that is expected. The map seems to indicate that the areas with the highest overestimation (the brighest green) fall mainly around the edge of the city and in the mountain range to the left of the city (it's Arrondisement 1 if you want to reference earlier images). The areas with lower overestimation are the most populated districts in the city — Arrondisements 5 and 6. It is important to note that the actual differences between the error of each gridcell is rather low — the total scale spans 400 people. 
 
 ![pic](Bangui_pop.png)
 
-This is a map of the actual population of bangui. This map very closely mirrors error conclusions from the prior. Clearly Arrondisement 1 is sparsely populated while Arrondisements 5 and 6 are more densely populated. 
+This is a map of the actual population of Bangui. This map very closely mirrors error conclusions from the prior. Clearly Arrondisement 1 is sparsely populated while Arrondisements 5 and 6 are more densely populated. 
 
 
 ![pic](Bangui_mapview.png)
