@@ -87,6 +87,10 @@ Of all the impactful shurbbery, I must say I never thought it'd be moss.
 
 ### Part 2
 
+![pic](3_district_difference.png)
+
+This is the difference between the statistical model's predicted values and the actual population in each gridcell. Evidently, most gridcells are wildley overestimated, especially the rural areas. 
+
 ![pic](Bangui_diff.png)
 
 This is the map of the difference between the predicted values of the population in each gridcell and the actual value. 
@@ -96,7 +100,6 @@ According to the legend, every gridcell is highly overestimated, but that is exp
 
 This is a map of the actual population of bangui. This map very closely mirrors error conclusions from the prior. Clearly Arrondisement 1 is sparsely populated while Arrondisements 5 and 6 are more densely populated. 
 
-I don't have the 3D graph because the script isn't generating anything. 
 
 ![pic](Bangui_mapview.png)
 
