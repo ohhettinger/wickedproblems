@@ -104,5 +104,24 @@ This is a map of the actual population of Bangui. This map very closely mirrors 
 
 This is the mapview of the error from the predictive model. 
 
+### Part 3
+
+![pic](diff Sums.png)
+
+This is the difference between the proportional allocation model (where predictors are sums of covariates) and the actual population of each gridcell. Evidently, the rural areas are rather accurately estimated. The interesting section is Bangui. The outskirts of the city are overestimated, while the more central areas are underestimated. 
+
+![pic](Means Difference.png)
+
+This is the difference between the prorportional allocation with predictors being mean of covariates and the actual population of each gridcell. Here, most of the area was overestimated, with the only underestimation coming from the urban areas.
+
+![pic](Log_pop_diff.png)
+
+This is the difference between actual log of population and the predicted log using the mean of the covariates. This looks the same as the regular population predicted by the sum of the covariates. 
+
+I think the best predictor is the sum of the covariates because the range of difference between predicted and actual values is the smallest. Because the log and sum graph look the same to the eye, I included information from R: 
+
+![pic](Sum_justification)
+
+
 
 
