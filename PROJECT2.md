@@ -75,7 +75,7 @@ This is the difference between actual log of population and the predicted log us
 
 I think the best predictor is the sum of the covariates because the range of difference between predicted and actual values is the smallest. Because the log and sum graph look the same to the eye, I included information from R: 
 
-![pic](Sum_justification)
+![pic](Sum_justification.png)
 
 
 
