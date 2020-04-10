@@ -28,3 +28,7 @@ Olivia Hettinger
 [Project 1](PROJECT1.md)
 
 [Project 2](PROJECT2.md)
+
+[Project 3](PROJECT3.md)
+
+
