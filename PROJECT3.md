@@ -8,7 +8,7 @@ This is the graph of urban areas in the adm2 Berbérati (Mambéré-Kadéi prefec
 
 This is a screenshot of the density and population counts of each urban area: 
 
-![pic](Screen Shot 2020-04-18 at 8.10.06 PM.png)
+![pic](density_df.png)
 
 The one with 35,134 people is what I am considering the area with ilegal activity. The area with 25,577 is the city.
 
