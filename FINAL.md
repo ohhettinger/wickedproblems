@@ -10,4 +10,13 @@ Anyway, as far as adm3s, the Central African Republic has 175.
 
 ## Population 
 
+The total population of the Central African Republic is 5,990,855 according to the CIA's July 2020 estimate. The most populated area is the capital city of Bangui, which the CIA estimates will have 889,000 residents in July 2020. I used exclusively 2015 and 2019 population data, so this estimate is larger than the data I worked with (835103.9 in 2019). This is the raster data for the entire population of the Central African Republic. For more detailed descriptions of the population of Bangui, visit the Project 1 write up. 
+
+![pic](CAR_raster.png)
+
 ## Human Settlements, Roadways, and Healthcare
+
+
+## Sources
+
+https://www.cia.gov/library/publications/the-world-factbook/geos/ct.html
