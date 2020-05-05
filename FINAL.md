@@ -18,7 +18,15 @@ You can see that most of the country is very sparsely populated. The country its
 
 ![pic](adm1_df.png)
 
-For more information about populaiton density in and around Bangui, visit the Project 2 write up. In project 2, I attempted to predict population and density values using land cover data for the three prefectures of Bangui, Lobaye, and Ombella M'Poko. The results from the project tend to indicate that the predictive models were not very accurate, likely due to the develoing nature of the Central African Republic. 
+For more information about populaiton density in and around Bangui, visit the Project 2 write up. In project 2, I attempted to predict population and density values using land cover data for the three prefectures of Bangui, Lobaye, and Ombella M'Poko. The results from the project tend to indicate that the predictive models were not very accurate, likely due to the develoing nature of the Central African Republic. Here is a quick graph of the difference between the unconstrained random forest model and the actual population of each gridcell in Bangui. 
+
+![pic](Bangui_mapview.png)
+
+Bangui is not very densely populated, but its lack of greenery indicates a much denser city. Anyway, once the model was contrained with built area data, it was much more successful. Here is a quick graph of the difference between the actual population of the area in and around Bangui and the predicted population.
+
+![pic](Log_pop_diff.png)
+
+As the first population raster indicates, the Central African Republic is largely rural. Once the model accounted for this, it was much more successful. The rural nature of CAR presents some very interesting challenges for the country's development. It's large size but rural population allows many rebel groups to rise and occupy large territory. CAR is plagued with many uprisings and rebel groups, and population location/density is certainly a contributing factor. Furthermore, a sparsely populated country will complicate access to services and spread of technology and ideas. Tune in next time to learn more about human settlements. 
 
 ## Human Settlements, Roadways, and Healthcare
 
