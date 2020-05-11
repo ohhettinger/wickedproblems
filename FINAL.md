@@ -6,7 +6,9 @@ The Central African Republic has four different administrative divisions: countr
 
 ![pic](New_Central_African_Republic.png)
 
-Anyway, as far as adm3s, the Central African Republic has 175. I did not investigate any ADM3s outside of Bangui. 
+Anyway, as far as adm3s, the Central African Republic has 175. I did not investigate any ADM3s outside of Bangui. Before we move on to the next sections, here is the subset of CAR that I investigated over the course of this project. 
+
+![pic](CAR_subset.png)
 
 ## Population 
 
@@ -34,7 +36,7 @@ In the earlier sections of this course, I investigated ADM1s in and around Bangu
 
 ![pic](health_and_roads_caf.png)
 
-The transparent dots are the urban area center points whereas the fully opaque dots are health care facilities. Evidently, most of the healthcare facilities are clustered near the main city, Berbérati.  
+The transparent dots are the urban area center points whereas the fully opaque dots are health care facilities. Evidently, most of the healthcare facilities are clustered near the main city, Berbérati. Furthermore, a good thing to know about the Central African Republic is that "major city" means more than 100,000 people. Most of the country is comprised of small villages (think under 20,000 people). 
 
 ![pic](healthcare_facilities.png)
 
@@ -50,7 +52,7 @@ As far as access to healthcare in light of roadways and topography, I'd venture 
 
 ## Final Thoughts
 
-The consistent thread throughout this project is that the Central African Rebpulic is highly rural and underdeveloped. The rural nature contributes to CAR's difficulty developing because it fosters uprisings and slows the spread of technology and ideas. 
+The consistent thread throughout this project is that the Central African Rebpulic is highly rural and underdeveloped. The rural nature contributes to CAR's difficulty developing because it fosters uprisings and slows the spread of technology and ideas. As far as the state of development in CAR, the current official government is taking what I believe to be good steps. They are trianing their military better and providing better public services. They are also attempting to transparently communicate with their people. A large part of this sudden development is linked to CAR's new partnership with Russia (although on the Russian end, the partnership is a vehicle for natural resource exploitation). But at the end of the day, I think CAR has a very long road ahead. The rural nature of the country complicates everything tenfold. 
 
 ## Sources
 
