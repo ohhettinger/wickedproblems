@@ -28,7 +28,7 @@ For more information about populaiton density in and around Bangui, visit the Pr
 
 ![pic](diff Sums.png)
 
-As you can see, the rural areas are rather accurately estimated (likely due to the village-heavy nature of CAR). The underpredicted areas align with the densest Arrondisements, whereas the over predicted areas align with the outskirts and the moutain range on the right side of the city. This is a common thread throughout predictive models, so it was expected. 
+As you can see, the rural areas are rather accurately estimated (likely due to the village-heavy nature of CAR). The underpredicted areas align with the more dense Arrondisements, whereas the overpredicted areas align with the outskirts and the moutain range on the right side of the city. This is a common thread throughout predictive models, so it was expected. 
 
 Finally, the first population raster indicates, the Central African Republic is largely rural. The rural nature of CAR presents some very interesting challenges for the country's development. It's large size but rural population allows many rebel groups to rise and occupy large territory. CAR is plagued with many uprisings and rebel groups, and population location/density is certainly a contributing factor. Furthermore, a sparsely populated country will complicate access to services and spread of technology and ideas. This is an excellent segway into more information about human settlements, roadways, and healthcare. 
 
